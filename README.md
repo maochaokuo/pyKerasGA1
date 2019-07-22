@@ -5,7 +5,8 @@
    1. conda create -n py36 python=3.6 anaconda
    2. activate py36
    3. conda activate py36
-   4. conda info --envs
+   4. conda info --env
+   5. conda update -n base -c defaults conda
 2. pip install tensorflow (fastest)
 3. (abandoned) pip install theano
 4. pip install cntk
