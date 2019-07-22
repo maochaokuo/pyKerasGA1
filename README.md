@@ -6,8 +6,8 @@
    2. activate py36
    3. conda activate py36
    4. conda info --envs
-2. pip install tensorflow
-3. pip install theano
+2. pip install tensorflow (fastest)
+3. (abandoned) pip install theano
 4. pip install cntk
 5. pip install numpy scipy
 6. pip install scikit-learn
