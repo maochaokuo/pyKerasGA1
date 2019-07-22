@@ -4,6 +4,8 @@
 1. install anaconda
    1. conda create -n py36 python=3.6 anaconda
    2. activate py36
+   3. conda activate py36
+   4. conda info --envs
 2. pip install tensorflow
 3. pip install theano
 4. pip install cntk
